@@ -1,0 +1,6 @@
+name: Healthview
+version: 1.0
+main: com.toke1597.healthview.Healthview
+api-version: 1.15
+authors: [toke1597]
+description: Health
