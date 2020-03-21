@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Healthview:jar">
+    <output-path>$PROJECT_DIR$/../Server/plugins</output-path>
+    <root id="archive" name="Healthview.jar">
+      <element id="module-output" name="Healthview" />
+    </root>
+  </artifact>
+</component>
